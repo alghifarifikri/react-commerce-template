@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "461f",
+      "name": "alfareez edit",
+      "email": "admin@gmail.com",
+      "phone": "09292",
+      "status": "AKTIF",
+      "password": "admin"
+    },
+    {
+      "id": "b257",
+      "name": "Alghifari Fikri",
+      "email": "dummy@mail.com",
+      "phone": "09292",
+      "status": "AKTIF",
+      "password": "69bap727"
+    },
+    {
+      "id": "5e13",
+      "name": "dadada edit",
+      "email": "ff@gm.co",
+      "phone": "fff",
+      "status": "AKTIF",
+      "password": "69bap9b4"
+    },
+    {
+      "id": "4909",
+      "name": "test",
+      "email": "test@m.com",
+      "phone": "2929",
+      "status": "AKTIF",
+      "password": "7xkw51lw"
+    }
+  ],
+  "products": [
+    {
+      "id": "222",
+      "title": "SOTB Saff & CO",
+      "image": "/images/product.png",
+      "price": "200000"
+    },
+    {
+      "id": "b4f7",
+      "title": "Iphone",
+      "price": "15000000",
+      "image": "/images/product.png"
+    },
+    {
+      "id": "218c",
+      "title": "Iphone 12 promaag",
+      "price": "1020202",
+      "image": "/images/product.png"
+    },
+    {
+      "id": "3c9a",
+      "title": "Test",
+      "price": "102020",
+      "image": "/images/product.png"
+    }
+  ]
+}

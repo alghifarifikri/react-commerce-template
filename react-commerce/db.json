@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "461f",
+      "name": "alfareez",
+      "phone": "09292",
+      "email": "alghi@gmail.com",
+      "password": "i4qldsjc"
+    },
+    {
+      "id": "70ee",
+      "name": "alfa",
+      "phone": "333",
+      "email": "alfa@gmail.com",
+      "password": "pjf1qp99"
+    },
+    {
+      "id": "f0e1",
+      "name": "Alghifari Fikri",
+      "phone": "0892929",
+      "email": "alghitest@gmail.com",
+      "password": "t0p53iol"
+    },
+    {
+      "id": "f79f",
+      "name": "testing",
+      "phone": "92929",
+      "email": "test@gmail.com",
+      "password": "z9tcmhen"
+    }
+  ]
+}
